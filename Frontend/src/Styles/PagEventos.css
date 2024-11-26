@@ -1,0 +1,16 @@
+.important-padding { 
+    padding: 2px 10px !important;
+    margin:0px 0px 30px 20px !important;
+    border: none;
+ }
+
+.important-padding2{
+    margin: 30px !important; 
+    justify-content:space-evenly;
+}
+
+.caixa .caixa2{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 580px;
+}

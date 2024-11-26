@@ -1,0 +1,8 @@
+a{
+   display: flex;
+   flex-direction: column;
+   justify-content: left;
+
+height: 765px;
+width: 1285px;
+}
